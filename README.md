@@ -1,16 +1,5 @@
 # riverpod_firestore_realtime_pagination
 
-A new Flutter project.
+![Simulator Screen Recording - iPhone 14 Pro - 2023-03-02 at 03 42 28 (2)](https://user-images.githubusercontent.com/83802425/222240007-ff77659b-818f-4843-b7c9-8cda9e33f5f0.gif)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+List pagination in situations where posts are added/deleted/updated in realtime using Riverpod and Firestore
